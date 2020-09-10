@@ -15,11 +15,7 @@ Coding primarily in **JavaScript, Python, PHP, HTML and SCSS**
 
 **Web Development, User Experience, Cloud Architecture**☁️
 
-**Algorithms, Container, Microservice, Java and AI** 🤖️
-
-## My Repos are Below👇 
-
-#### Feel free to give Your Suggestions, Issues or PRs🌍
+**Content Management System Architecture, DevOps, Security, Databases, Scalability, UI/UX, Design... Current buzzwords include Node, Vue, Nuxt, React, Next, Jest, AWS, GovCloud, Django, Wagtail, React-Native, GraphQL, Prisma** 🤖️
 
 <img  src="https://github-readme-stats.vercel.app/api?username=jamesray&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs">
 
