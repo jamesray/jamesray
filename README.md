@@ -17,7 +17,5 @@ Coding primarily in **JavaScript, Python, PHP, HTML and SCSS**
 
 **Content Management System Architecture, DevOps, Security, Databases, Scalability, UI/UX, Design... Current buzzwords include Node, Vue, Nuxt, React, Next, Jest, AWS, GovCloud, Django, Wagtail, React-Native, GraphQL, Prisma** 🤖️
 
-<img  src="https://github-readme-stats.vercel.app/api?username=jamesray&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs">
-
 </div>
 
