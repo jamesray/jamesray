@@ -3,11 +3,11 @@
 
 # Hi, I am James Ray 👨🏻‍💻
 
-[website](https://www.james.engineer)🏠 
+[website](https://www.james.engineer) 🏠 
 
-Proudly working for **NASA/JPL**，I am an **Enterprise Applications Software Engineer**💻🚀
+Proudly working for **NASA/JPL**，I am an **Enterprise Applications Software Engineer** 💻 🚀
 
-I love **Vue &amp; Wagtail** 💚🐦
+I love **Vue &amp; Wagtail** 💚 🐦
 
 Coding primarily in **JavaScript, Python, PHP, HTML and SCSS**
 
@@ -15,7 +15,7 @@ Coding primarily in **JavaScript, Python, PHP, HTML and SCSS**
 
 **Web Development, User Experience, Cloud Architecture**☁️
 
-**Content Management System Architecture, DevOps, Security, Databases, Scalability, UI/UX, Design... Current buzzwords include Node, Vue, Nuxt, React, Next, Jest, AWS, GovCloud, Django, Wagtail, React-Native, GraphQL, Prisma** 🤖️
+**Content Management System Architecture, DevOps, Security, Databases, Scalability, UI/UX, Design... Current buzzwords include Node, Vue, Vite, TailwindCSS, Nuxt, React, Next, Jest, AWS, GovCloud, Django, Wagtail, React-Native, GraphQL, Prisma** 🤖️
 
 </div>
 
