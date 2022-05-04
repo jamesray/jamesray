@@ -4,8 +4,6 @@
 
 Proudly working for **NASA/JPL**，I am an **Enterprise Applications Software Engineer** 💻 🚀
 
-I love **Vue &amp; Wagtail** 💚 🐦
-
 Coding primarily in **JavaScript, Python, PHP, HTML and SCSS**
 
 ## My interests are ❤️ 
