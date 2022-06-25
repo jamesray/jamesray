@@ -10,5 +10,5 @@ Coding primarily in **JavaScript, Python, PHP, HTML and SCSS**
 
 **Web Development, User Experience, Cloud Architecture**☁️
 
-**Content Management System Architecture, DevOps, Security, Databases, Scalability, UI/UX, Design... Current buzzwords include Node, Vue, Vite, TailwindCSS, Nuxt, React, Next, Jest, AWS, GovCloud, Django, Wagtail, React-Native, GraphQL, Prisma** 🤖️
+**Content Management System Architecture, DevOps, Security, Databases, Scalability, UI/UX, Design... Current buzzwords include Jamstack, Headless, Astro, Svelte, Deno, WordPressGraphQL, Node, Vue, Vite, TailwindCSS, Nuxt, React, Next, Jest, AWS, GovCloud, Django, Wagtail, Sveltekit, React-Native, GraphQL, Prisma** 🤖️
 
