@@ -4,7 +4,7 @@
 
 Proudly working for **NASA/JPL**，I am an **Enterprise Applications Software Engineer** 💻 🚀
 
-Coding primarily in **JavaScript, Python, PHP, HTML and SCSS**
+Coding primarily in **TypeScript, Python, PHP, HTML and SCSS**
 
 ## My interests are ❤️ 
 
