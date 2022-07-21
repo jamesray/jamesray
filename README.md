@@ -1,17 +1,20 @@
-# 👨🏻‍💻 Hi, I am James A. Ray
+# James A. Ray 👨🏻‍💻 
 
-🚀 [**NASA/JPL**](https://www.jpl.nasa.gov) - 
+🚀 Web Team: [**NASA/JPL**](https://www.jpl.nasa.gov) 🏢
 
-💻 **Enterprise Applications Software Engineer**
+💻 Position: **Enterprise Applications Software Engineer** (Tech Lead) 🛰
 
-### ☁️ My interests are: Component Driven Development, UX, DX, Cloud Architecture** 
+### My primary interests are:
+- **Agile Component Driven Development** ⚡️
+- **Large Content Ecosystem Innovations** 🗺
+- **Future-proof Software Architecture** 🔮
 
-🐐 I'm Experienced Building:
-- 🎃 Decoupled Content Management Systems at Scale
-- 🧏 Performance Focused and Accessible Experiences 
-- 🚨 Secure DevOps Dashboard Systems and Alerts 
-- 🧠 Headless UI Component Design in Various Frameworks 
-- 📡 APIs for Science and Astronomy Data + Processing
+☁️ I'm Experienced **Shipping** 🐐
+- 🎃 - Decoupled Content Management Systems at Scale
+- 🧏 - Performance Focused and Accessible Experiences 
+- 🚨 - Secure DevOps Dashboard Systems and Alerts 
+- 🧠 - Headless UI Component Design in Various Frameworks 
+- 📡 - APIs for Science and Astronomy Data + Processing
 
 🤖️ Current buzzwords include... Jamstack, Decoupled, Vue, Nuxt, GraphQL, Django, Wagtail, WordPress, AWS + GovCloud, Astro, Svelte, Deno, Node, Vite, TailwindCSS, React, Next, Jest, Sveltekit, React-Native, Apollo, Prisma 
 
