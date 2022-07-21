@@ -10,11 +10,11 @@
 - **Future-proof Software Architecture** 🔮
 
 ☁️ I'm Experienced **_Shipping_** 🐐
-- 🎃 - Decoupled Content Management Systems at Scale
-- 🧏 - Performance Focused and Accessible Experiences 
-- 🚨 - Secure DevOps Dashboard Systems and Alerts 
-- 🧠 - Headless UI Component Design in Various Frameworks 
-- 📡 - APIs for Science and Astronomy Data + Processing
+- **Enterprise Decoupled Content Management Systems** 🎃
+- **Performance Driven and Accessible Experiences** 🧏
+- **Secure DevOps Dashboard Systems and Alerting** 🚨
+- **Headless Components in Various Frameworks** 🧠
+- **APIs for Science/Astronomy Data Processing** 📡
 
 🤖️ Current buzzwords include... Jamstack, Decoupled, Vue, Nuxt, GraphQL, Django, Wagtail, WordPress, AWS + GovCloud, Astro, Svelte, Deno, Node, Vite, TailwindCSS, React, Next, Jest, Sveltekit, Swift, Apollo, Prisma 
 
