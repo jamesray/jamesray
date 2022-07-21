@@ -1,6 +1,6 @@
 # James A. Ray 👨🏻‍💻 
 
-🚀 Web Team: [**NASA/JPL**](https://www.jpl.nasa.gov) 🏢
+🚀 DesignLab Web Team: [**NASA/JPL**](https://www.jpl.nasa.gov) 🏢
 
 💻 Position: **Enterprise Applications Software Engineer** (Tech Lead) 🛰
 
@@ -10,7 +10,7 @@
 - **Future-proof Software Architecture** 🔮
 
 ☁️ I'm Experienced **_Shipping_** 🐐
-- **Enterprise Decoupled Content Management Systems** 🎃
+- **Enterprise Ready Content Management Systems** 🎃
 - **Performance Driven and Accessible Experiences** 🧏
 - **Secure DevOps Dashboard Systems and Alerting** 🚨
 - **Headless Components in Various Frameworks** 🧠
