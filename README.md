@@ -9,7 +9,7 @@
 - **Large Content Ecosystem Innovations** 🗺
 - **Future-proof Software Architecture** 🔮
 
-☁️ I'm Experienced **Shipping** 🐐
+☁️ I'm Experienced **_Shipping_** 🐐
 - 🎃 - Decoupled Content Management Systems at Scale
 - 🧏 - Performance Focused and Accessible Experiences 
 - 🚨 - Secure DevOps Dashboard Systems and Alerts 
