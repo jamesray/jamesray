@@ -2,16 +2,14 @@
 
 [**NASA/JPL**](https://www.jpl.nasa.gov) - **Enterprise Applications Software Engineer** 💻 🤳 🏢 🚀 🛰 
 
-Coding primarily in **TypeScript, Python, PHP, HTML and SCSS** ⚡️ 
+### My interests are: Component Driven Development, UX, DX, Cloud Architecture** ☁️ 
 
-## My interests are ❤️ Component Driven Development, UX, DX, Cloud Architecture** ☁️ 
-
-I'm Experienced Building:
-- Decoupled Content Management Systems at Scale
-- Performance Focused and Accessible Experiences
-- Secure DevOps Dashboard Systems and Alerts
-- Headless UI Component Design in Various Frameworks
-- APIs for Science and Astronomy Data + Processing
+I'm Experienced Building: 🐐
+- Decoupled Content Management Systems at Scale 🎃
+- Performance Focused and Accessible Experiences 🧏
+- Secure DevOps Dashboard Systems and Alerts 🚨
+- Headless UI Component Design in Various Frameworks 🧠
+- APIs for Science and Astronomy Data + Processing 📡
 
 Current buzzwords include... Jamstack, Decoupled, Vue, Nuxt, GraphQL, Django, Wagtail, WordPress, AWS + GovCloud, Astro, Svelte, Deno, Node, Vite, TailwindCSS, React, Next, Jest, Sveltekit, React-Native, Apollo, Prisma 🤖️
 
