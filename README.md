@@ -1,6 +1,6 @@
-# Hi, I am James A. Ray 👨🏻‍💻 here's my simple [website](https://www.james.engineer) 🏠 
+# Hi, I am James A. Ray 👨🏻‍💻
 
-Proudly working for [**NASA/JPL**](https://www.jpl.nasa.gov)，I am an **Enterprise Applications Software Engineer** 💻 🤳 🏢 🚀 🛰 
+[**NASA/JPL**](https://www.jpl.nasa.gov) - **Enterprise Applications Software Engineer** 💻 🤳 🏢 🚀 🛰 
 
 Coding primarily in **TypeScript, Python, PHP, HTML and SCSS** ⚡️ 
 
@@ -18,3 +18,5 @@ Current buzzwords include... Jamstack, Decoupled, Vue, Nuxt, GraphQL, Django, Wa
 ----
 
 ![keyboard-simpsons](https://user-images.githubusercontent.com/1471894/180178352-1720e97a-1f98-401c-947e-d9dab25ef4f3.gif)
+
+[some other links](https://www.james.engineer) 🏠 
