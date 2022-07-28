@@ -22,4 +22,4 @@
 
 ![keyboard-simpsons](https://user-images.githubusercontent.com/1471894/180178352-1720e97a-1f98-401c-947e-d9dab25ef4f3.gif)
 
- [🕸my webring (james.engineer)💍](https://www.james.engineer) | [🌠my stargazing✨](https://github.com/jamesray?tab=stars)
+ [🕸 my webring (james.engineer) 💍](https://www.james.engineer) | [🌠 my stargazing lists ✨](https://github.com/jamesray?tab=stars)
