@@ -1,8 +1,8 @@
 # James A. Ray 👨🏻‍💻 
 (He, Him, His)
 
-## Currently Building @ [**NASA / JPL**](https://www.jpl.nasa.gov)
-💻 Position / Title: **Enterprise Applications Software Engineer** (Tech Lead) 🛰
+## I Enjoy Building Websites @ [**NASA / JPL**](https://www.jpl.nasa.gov) 🏢
+💻 **Position / Title:** Enterprise Applications Software Engineer (Tech Lead) 🛰
 
 ### My primary interests are:
 - **Agile Component Driven Development** ⚡️
