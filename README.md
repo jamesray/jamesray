@@ -1,9 +1,8 @@
 # James A. Ray 👨🏻‍💻 
-## (He, Him, His)
+(He, Him, His)
 
-🚀 DesignLab Web Team: [**NASA/JPL**](https://www.jpl.nasa.gov) 🏢
-
-💻 Position: **Enterprise Applications Software Engineer** (Tech Lead) 🛰
+## Currently Building @ [**NASA / JPL**](https://www.jpl.nasa.gov)
+💻 Position / Title: **Enterprise Applications Software Engineer** (Tech Lead) 🛰
 
 ### My primary interests are:
 - **Agile Component Driven Development** ⚡️
