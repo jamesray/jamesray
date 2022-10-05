@@ -1,22 +1,23 @@
-# James A. Ray 👨🏻‍💻 
+# James A. Ray 👨🐐🏻‍💻 
 (He, Him, His)
 
-## I Enjoy Building Websites @ [**NASA / JPL**](https://www.jpl.nasa.gov) 🏢
-💻 **Position / Title:** Enterprise Applications Software Engineer (Tech Lead) 🛰
+## I Enjoy Building Websites @ [**NASA / JPL**](https://www.jpl.nasa.gov)  🏢
+
+**My Current Position / Title:** Enterprise Applications Software Engineer (Tech Lead)  🛰
 
 ### My primary interests are:
-- **Agile Component Driven Development** ⚡️
-- **Large Content Ecosystem Innovations** 🗺
-- **Future-proof Software Architecture** 🔮
+- **Agile Component Driven Development**  ⚡️
+- **Large Content Ecosystem Innovations**  🗺
+- **Future-proof Software Architecture**  🔮
 
-☁️ I'm Experienced **_Shipping_** 🐐
-- **Enterprise Ready Content Management Systems** 🎃
-- **Performance Driven and Accessible Experiences** 🧏
-- **Secure DevOps Dashboard Systems and Alerting** 🚨
-- **Headless Components in Various Frameworks** 🧠
-- **APIs for Science/Astronomy Data Processing** 📡
+☁️ I'm Experienced **_Shipping_** 
+- **Enterprise Ready Content Management Systems**  🎃
+- **Performance Driven and Accessible Experiences**  🧏
+- **Secure DevOps Dashboard Systems and Alerting**  🚨
+- **Headless Components in Various Frameworks**  🧠
+- **APIs for Science/Astronomy Data Processing**  📡
 
-🤖️ Current buzzwords include... Jamstack, Decoupled, Vue, Nuxt, GraphQL, Django, Wagtail, WordPress, AWS + GovCloud, Astro, Svelte, Deno, Node, Vite, TailwindCSS, React, Next, Jest, Sveltekit, Swift, Apollo, Prisma 
+**Current buzzwords include...** TypeScript, Jamstack, Decoupled, Vue, Nuxt, GraphQL, Django, Wagtail, WordPress, AWS + GovCloud, Astro, Svelte, Deno, Node, Vite, TailwindCSS, React, Next, Jest, Sveltekit, Swift, Apollo, Prisma 🤖️
 
 ----
 
