@@ -17,7 +17,7 @@
 - **Headless Components in Various Frameworks**  🧠
 - **APIs for Science/Astronomy Data Processing**  📡
 
-**Current buzzwords include...** TypeScript, Jamstack, Decoupled, Vue, Nuxt, GraphQL, Django, Wagtail, WordPress, AWS + GovCloud, Astro, Svelte, Deno, Node, Vite, TailwindCSS, React, Next, Jest, Sveltekit, Swift, Apollo, Prisma 🤖️
+**Current buzzwords include...** TypeScript, Jamstack, Decoupled, Vue, Nuxt, GraphQL, Django, Wagtail, WordPress, AWS + GovCloud, Astro, Svelte, Deno, Node, Vite, Zag, TailwindCSS, React, Next, Jest, Sveltekit, Swift, Apollo, Prisma 🤖️ ... and my co-pilot ChatGPT.
 
 ----
 
