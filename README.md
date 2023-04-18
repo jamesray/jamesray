@@ -5,10 +5,11 @@
 
 ### 💼 Current Position: Enterprise Applications Software Engineer (Unshakeable Technical Lead)
 
-## 🌟 I Eat Sleep and Breathe this 💩
+## 🌟 Eat Sleep and Breathe Web 💩
 - Agile Component Driven Development ⚡️
 - Large Content Ecosystem Innovations 🌐
 - Future-proof Software Architecture 🔮
+- Web Wizard w/ 20-years of Experience 🧙🏻‍♂️
 
 ## ☁️ Experienced Shipping and Maintaining:
 - Enterprise Ready Content Management Systems 🧠
