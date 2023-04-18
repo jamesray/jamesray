@@ -9,7 +9,7 @@
 - Agile Component Driven Development ⚡️
 - Large Content Ecosystem Innovations 🌐
 - Future-proof Software Architecture 🔮
-- Web Wizard w/ 20-years of Experience 🧙🏻‍♂️
+- Web Wizard w/ Decades of Experience 🧙🏻‍♂️
 
 ## ☁️ Experienced Shipping and Maintaining:
 - Enterprise Ready Content Management Systems 🧠
