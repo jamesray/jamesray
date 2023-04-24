@@ -1,5 +1,5 @@
 # James A. Ray 👨‍💻🐐
-(He, Him, His)
+(He, Him, His) [husband, father]
 
 ## 🚀 Building Websites at [**NASA / JPL**](https://www.jpl.nasa.gov)
 
