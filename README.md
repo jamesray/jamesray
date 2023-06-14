@@ -19,7 +19,7 @@
 - APIs for Science/Astronomy Data Processing 📡
 
 ## 🛠️ Skills & Technologies:
-TypeScript, Jamstack, Decoupled, Vue, Nuxt, GraphQL, Django, Wagtail, WordPress, AWS + GovCloud, Astro, Svelte, Deno, Node, Vite, Zag, TailwindCSS, React, Next, Jest, Sveltekit, Swift, Apollo, Prisma 🤖 ... and my co-pilot ChatGPT.
+TypeScript, Jamstack, Decoupled, Vue, Nuxt, GraphQL, Django, Wagtail, WordPress, AWS + GovCloud, Astro, Svelte, Deno, Node, Vite, Zag, TailwindCSS, HeadlessUI, React, Next, Jest, Sveltekit, Swift, Apollo, Prisma 🤖 ... and my co-pilot ChatGPT.
 
 ![keyboard-simpsons](https://user-images.githubusercontent.com/1471894/180178352-1720e97a-1f98-401c-947e-d9dab25ef4f3.gif)
 
