@@ -3,7 +3,7 @@
 
 ## 🚀 Building [Webby Award Winning](https://winners.webbyawards.com/2023/websites-and-mobile-sites/general-websites-and-mobile-sites/science/249075/nasas-jet-propulsion-laboratory-website) Websites at [**NASA / JPL**](https://www.jpl.nasa.gov)
 
-### 💼 Current Position: Enterprise Applications Software Engineer (Unshakeable Technical Lead)
+### 💼 Current Position: Enterprise Applications Software Engineer
 
 ## 🌟 Eat Sleep and Breathe Web 💩
 - Agile Component Driven Development ⚡️
@@ -25,3 +25,7 @@ TypeScript, Jamstack, Decoupled, Vue, Nuxt, GraphQL, Django, Wagtail, WordPress,
 
 - [🕸 My Webring (james.engineer) 💍](https://www.james.engineer)
 - [🌠 My Stargazing Lists ✨](https://github.com/jamesray?tab=stars)
+
+> [I've got my mind set on Vue](https://www.youtube.com/watch?v=k68Fob0QA_k)
+> -James Ray
+> 
