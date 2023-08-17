@@ -27,7 +27,7 @@ TypeScript, Jamstack, Decoupled, Vue, Nuxt, GraphQL, Django, Wagtail, WordPress,
 
 ![keyboard-simpsons](https://user-images.githubusercontent.com/1471894/180178352-1720e97a-1f98-401c-947e-d9dab25ef4f3.gif)
 
-- [👨🏻‍🎤 Personal (raylus.com) 🎧](https://www.james.engineer)
+- [👨🏻‍🎤 Personal (raylus.com) 🎧](https://www.raylus.com)
 - [🕸 Business (james.engineer) 💍](https://www.james.engineer)
 - [🌠 Stargazing List ✨](https://github.com/jamesray?tab=stars)
 
