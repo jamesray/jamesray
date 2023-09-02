@@ -5,7 +5,7 @@
 
 ### 💼 Current Position: [NASA](http://nasa.gov/) Enterprise Applications Software Engineer
 
-## 🌟 Embracing the EDGE 😌
+## 🌟 Racing to the EDGE 😌
 - GraphQL + TypeScript Component Driven Development 🏎️
 - Embracing JAMStack and Decoupled/Headless 💀
 - Large Content Ecosystem Innovations 🌐
