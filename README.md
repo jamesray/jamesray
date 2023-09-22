@@ -6,7 +6,7 @@
 ### 💼 Current Position: [NASA](https://beta.nasa.gov/) Enterprise Applications Software Engineer
 ### 🌟 Featured Projects: [NASA Science - BETA](https://beta.science.nasa.gov/) + [Jet Propulsion Lab / NASA](https://jpl.nasa.gov/)
 
-## 🌟 Racing to the EDGE 😌
+## 🏁 Racing to the EDGE 😌
 - GraphQL + TypeScript Component Driven Development 🏎️
 - Embracing JAMStack and Decoupled/Headless 💀
 - Large Content Ecosystem Innovations 🌐
