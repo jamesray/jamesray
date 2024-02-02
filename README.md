@@ -3,11 +3,11 @@
 
 ## 🚀 Building [Webby Award Winning](https://winners.webbyawards.com/2023/websites-and-mobile-sites/general-websites-and-mobile-sites/science/249075/nasas-jet-propulsion-laboratory-website) Websites at [**NASA / JPL**](https://www.jpl.nasa.gov)
 
-### 💼 Current Position: [NASA](https://beta.nasa.gov/) Enterprise Applications Software Engineer
-### 🌟 Featured Projects: [NASA Science - BETA](https://beta.science.nasa.gov/) + [Jet Propulsion Lab / NASA](https://jpl.nasa.gov/)
+### 💼 Current Position: [NASA](https://nasa.gov/) Enterprise Applications Software Engineer
+### 🌟 Featured Projects: [NASA Science](https://science.nasa.gov/) + [Jet Propulsion Lab / NASA](https://jpl.nasa.gov/)
 
 ## 🏁 Racing to the EDGE 😌
-- GraphQL + TypeScript Component Driven Development 🏎️
+- TypeScript Component Engineer and Designer 🏎️
 - Embracing JAMStack and Decoupled/Headless 💀
 - Large Content Ecosystem Innovations 🌐
 - Future-proofing Enterprise Infrastructures 🔮
