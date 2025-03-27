@@ -3,7 +3,7 @@
 
 ## 🚀 [Award-winning developer based in Los Angeles](https://winners.webbyawards.com/2023/websites-and-mobile-sites/general-websites-and-mobile-sites/science/249075/nasas-jet-propulsion-laboratory-website); Previously Tech-Lead at [**NASA / JPL**](https://www.jpl.nasa.gov)
 
-### 🦚 Very excited to currently be looking for a new full-time position due to NASA layoffs!
+### 🌑 Currently Supporting NASA-JSC Flight Operations Directorate on the Luna dev team [Contracting via Navteca]
 ### 💼 Most Recent Position: [NASA](https://nasa.gov/) Enterprise Applications Software Engineer @ the Jet Propulsion Laboratory in Pasadena, CA for over 8 years!
 ### 🌟 Featured Projects: [NASA Science](https://science.nasa.gov/) + [Jet Propulsion Lab / NASA](https://jpl.nasa.gov/)
 
@@ -31,6 +31,3 @@
 
 - [👨🏻‍🎤 Personal Site (raylus.com) 🎧](https://www.raylus.com)
 - [🌠 GitHub Stargazing List ✨](https://github.com/jamesray?tab=stars)
-
-> [🎶 I've got my mind set on Vue](https://www.youtube.com/watch?v=k68Fob0QA_k)
-> -James Ray
