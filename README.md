@@ -3,8 +3,8 @@
 
 ## 🚀 [Award-winning developer based in Los Angeles](https://winners.webbyawards.com/2023/websites-and-mobile-sites/general-websites-and-mobile-sites/science/249075/nasas-jet-propulsion-laboratory-website); Previously Tech-Lead at [**NASA / JPL**](https://www.jpl.nasa.gov)
 
-### 🌑 Currently Supporting NASA-JSC Flight Operations Directorate on the Luna dev team [Contracting via Navteca]
-### 💼 Most Recent Position: [NASA](https://nasa.gov/) Enterprise Applications Software Engineer @ the Jet Propulsion Laboratory in Pasadena, CA for over 8 years!
+### 🌑 Supporting [NASA](https://nasa.gov/) Flight Operations Directorate on the Luna dev team [Contracting via Navteca]
+### 💼 Last Position: [NASA/JPL](https://jpl.nasa.gov/) Enterprise Applications Software Engineer @ the Jet Propulsion Laboratory in Pasadena, CA for over 8 years!
 ### 🌟 Featured Projects: [NASA Science](https://science.nasa.gov/) + [Jet Propulsion Lab / NASA](https://jpl.nasa.gov/)
 
 ## 🏁 Racing to the EDGE 😌
