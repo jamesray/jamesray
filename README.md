@@ -12,6 +12,7 @@
 ## 🏁 Racing to the EDGE 😌
 - TypeScript Component Engineer and Designer 🏎️
 - Embracing JAMStack and Decoupled / Headless 💀
+- Saving $ with Serverless Architecture as Code 🤑
 - Large Content Ecosystem Innovations at Scale 🌐
 - Future-proofing Enterprise Infrastructures 🔮
 - Web Wizard w/ Decades of Experience 🧙🏻‍♂️
