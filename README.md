@@ -28,7 +28,7 @@
 - APIs for Science/Astronomy Data Processing 📡
 
 ## 🛠️ Skills & Technologies:
-[TypeScript](https://www.typescriptlang.org/), [React](https://react.dev/), [Angular](https://angular.dev/), [Vue](https://vuejs.org/), [Nuxt](https://nuxt.com/), [GraphQL](https://graphql.org/), [Django](https://www.djangoproject.com/), [Wagtail](https://wagtail.org/), AWS + GovCloud, [Astro](https://astro.build/), [Svelte](https://svelte.dev/), [Vite](https://vitejs.dev/), [TailwindCSS](https://tailwindcss.com/), HeadlessUI, Next, Jest, Swift, Apollo 🤖 ... and my co-pilot, [ChatGPT](https://openai.com/chatgpt/).
+[TypeScript](https://www.typescriptlang.org/), [React](https://react.dev/), [Angular](https://angular.dev/), [Vue](https://vuejs.org/), [Nuxt](https://nuxt.com/), [GraphQL](https://graphql.org/), [Django](https://www.djangoproject.com/), [Wagtail](https://wagtail.org/), GCP, AWS + GovCloud, [Astro](https://astro.build/), [Svelte](https://svelte.dev/), [Vite](https://vitejs.dev/), [TailwindCSS](https://tailwindcss.com/), HeadlessUI, Next, Jest, Swift, Apollo 🤖 ... and my co-pilot, [ChatGPT](https://openai.com/chatgpt/).
 
 ![keyboard-simpsons](https://user-images.githubusercontent.com/1471894/180178352-1720e97a-1f98-401c-947e-d9dab25ef4f3.gif)
 
