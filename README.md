@@ -4,9 +4,8 @@
 ## 🚀 [Award-winning software engineer based in Los Angeles](https://winners.webbyawards.com/2023/websites-and-mobile-sites/general-websites-and-mobile-sites/science/249075/nasas-jet-propulsion-laboratory-website)
 
 ### 🧠 Principal-level engineer building AI-native platforms, open knowledge systems, and modern cloud-backed products across music, science, and enterprise ecosystems
-### 🎼 Helping architect the future of Notes.fm / Credits.fm through platform strategy, backend modernization, metadata systems, and structured music knowledge infrastructure
-### ⛈️ Contributing to [NASA Space Weather Science Operations Center](https://swxsoc.github.io/) infrastructure and cloud operations [Contracting via Navteca]
-### 🌑 Working with [NASA](https://nasa.gov/) Flight Operations Directorate on the Luna dev team, delivering scalable frontend systems and platform improvements [Contracting via Navteca]
+### ⛈️ Supporting the [NASA Space Weather Science Operations Center](https://swxsoc.github.io/) infrastructure and cloud operations [Contracting via Navteca]
+### 🌑 Previously working with [NASA](https://nasa.gov/) JSC Flight Operations Directorate on the Luna dev team, delivering scalable frontend systems and platform improvements [Contracting via Navteca]
 ### 🧭 Advising [Voice Atlas](https://voiceatlas.com/) across communications, product direction, and strategic marketing [Contracting via Navteca]
 ### 💼 Former [NASA/JPL](https://jpl.nasa.gov/) Enterprise Applications Software Engineer at the Jet Propulsion Laboratory in Pasadena, CA for over 8 years
 ### 🌟 Featured Projects: [NASA Science](https://science.nasa.gov/) + [Jet Propulsion Laboratory / NASA](https://jpl.nasa.gov/)
