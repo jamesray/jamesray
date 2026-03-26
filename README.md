@@ -50,7 +50,7 @@
 - Equal care for polish, performance, clarity, and long-term maintainability
 - Best in environments where product vision, technical ambiguity, and execution pressure all overlap
 
-![keyboard-simpsons](https://user-images.githubusercontent.com/1471894/180178352-1720e97a-1f98-401c-947e-d9dab25ef4f3.gif)
+  ![keyboard-simpsons](https://user-images.githubusercontent.com/1471894/180178352-1720e97a-1f98-401c-947e-d9dab25ef4f3.gif)
 
 - [👨🏻‍🎤 Personal Site (raylus.com) 🎧](https://www.raylus.com)
 - [🌠 GitHub Stargazing List ✨](https://github.com/jamesray?tab=stars)
