@@ -11,7 +11,7 @@
 ### 🌟 Featured Projects: [NASA Science](https://science.nasa.gov/) + [Jet Propulsion Laboratory / NASA](https://jpl.nasa.gov/)
 
 ## 🏁 Engineering at the Edge
-- TypeScript engineer operating at the intersection of product, UI, and systems architecture 🏎️
+- Full-stack engineer operating at the intersection of product, UI, and systems architecture 🏎️
 - Designing and shipping large-scale, high-visibility platforms for public and enterprise audiences 🌐
 - Building with modern decoupled, headless, and API-first architecture patterns 💀
 - Driving platform quality through performance, accessibility, maintainability, and developer experience 🔒
